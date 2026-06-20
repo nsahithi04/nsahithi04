@@ -1,4 +1,4 @@
-# Hi, I'm Sahithi 👋
+# Hi, I'm Sahithi 
 
 Software Engineer focused on Full-Stack Development, Backend Systems, and Applied AI.
 
