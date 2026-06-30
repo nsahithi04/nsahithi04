@@ -13,12 +13,6 @@ I'm passionate about building products that solve real problems and are actually
 
 ## 🚀 Featured Projects
 
-### 🎯 GameOn
-
-A sports venue discovery and booking platform that helps players find and reserve courts for sports such as badminton, tennis, pickleball, and cricket.
-
-**Tech Stack:** Next.js, TypeScript, PostgreSQL, Prisma, Tailwind CSS
-
 ### 🤖 AI CRM Platform
 
 An AI-powered CRM system for managing customer pipelines, meeting notes, feedback tracking, and automated workflows.
@@ -31,11 +25,6 @@ A natural language-to-SQL application that enables users to query databases usin
 
 **Tech Stack:** Python, FastAPI, PostgreSQL, LLMs
 
-### ⚡ AI Agents & Automation
-
-Built AI-powered agents and workflow automation tools using modern LLM frameworks and APIs.
-
-**Tech Stack:** Python, LangChain, LangGraph, FastAPI
 
 ---
 
